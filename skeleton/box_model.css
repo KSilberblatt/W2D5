@@ -1,0 +1,27 @@
+div {
+  height: 200px;
+  width: 200px;
+}
+
+#first-div {
+  background-color: #39cccc;
+}
+
+#second-div {
+  background-color: #ff4136;
+}
+
+p {
+  background-color: #7fdbff;
+}
+
+div#third-div {
+    min-height: 400px;
+    height: auto;
+}
+
+div#fourth-div {
+    width: 200px;
+    height: 600px;
+    background-color: bisque;
+}
